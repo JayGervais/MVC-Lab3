@@ -1,0 +1,55 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.jumbotron {
+    background-image: url('../Images/freestocks-org-twVS-YjQn9Y-unsplash.jpg') !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1.title {
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 4px 0px 5px #000;
+}
+
+p.lead {
+    color: #fff;
+    text-shadow: 4px 0px 5px #000;
+}
+
+a.btn.btn-primary.btn-lg {
+    background-color: #ff6a00;
+    border-color: #ff6a00;
+}
+
+.lg-txt {
+    font-size: 20px;
+}
+
+img.wideimg {
+    width: 100%;
+}
