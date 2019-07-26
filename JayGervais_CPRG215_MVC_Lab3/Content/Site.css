@@ -59,6 +59,16 @@ img.wideimg {
     border-radius: 10px;
 }
 
+img.widelg {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
 footer {
     text-align: center;
+}
+
+.margintop {
+    margin-top: 45px;
 }
