@@ -147,6 +147,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Images\freestocks-org-twVS-YjQn9Y-unsplash.jpg" />
+    <Content Include="Images\jay-crop.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />

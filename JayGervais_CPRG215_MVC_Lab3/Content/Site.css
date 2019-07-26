@@ -24,10 +24,14 @@ textarea {
 }
 
 .jumbotron {
-    background-image: url('../Images/freestocks-org-twVS-YjQn9Y-unsplash.jpg') !important;
+    background-image: url('../Images/freestocks-org-twVS-YjQn9Y-unsplash.jpg');
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 165px;
+    padding-top: 165px;
+    margin-top: 50px;
 }
 
 h1.title {
@@ -52,4 +56,9 @@ a.btn.btn-primary.btn-lg {
 
 img.wideimg {
     width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
 }
